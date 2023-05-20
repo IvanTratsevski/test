@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 html,body,.wrapper{
-    width: 100%;
+    width: 600px;
     font-size: 30px;
 }
 img{
