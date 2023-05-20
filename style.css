@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 html,body,.wrapper{
-    width: 600px;
+    width: 100%;
     font-size: 30px;
 }
 img{
@@ -45,6 +45,6 @@ hr{
     height: 40px;
     opacity: 0.5;
     background-color:red;
-    top: 90%;
-    left: 90%;
+    top: 40%;
+    left: 40%;
 }
