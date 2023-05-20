@@ -33,16 +33,18 @@ hr{
     width: 100%;
 }
 #upbtn{
+    display: block;
     position: fixed;
     text-align: center;
     border-radius: 50%;
     text-decoration: none;
     color: black;
     font-size: 130%;
+    z-index: 10;
     width: 40px;
     height: 40px;
+    opacity: 0.5;
     background-color:red;
-    top:90%;
+    top: 90%;
     left: 90%;
-    display: block;
 }
